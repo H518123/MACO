@@ -1,4 +1,4 @@
-# MACO: An Open Image Dataset with Multi-Annotation Methods for Building Material Counting
+# MACO: An Open Image Dataset with Multi-Annotation Strategies for Building Material Counting
 # Introduction
 This repo contains a large-scale image dataset across seven building material types. Please send email to hq_tongji@163.com for more information.
 # Use the MACO dataset
